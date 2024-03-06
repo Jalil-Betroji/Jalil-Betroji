@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalil-betroji" alt="jalil-betroji" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel framework**
+- 🌱 Recently mastered: **Laravel Framework**
+- 📚 Currently expanding skills in: **Kotlin**
+- 💼 Preferred language: **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +22,32 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalil-betroji&show_icons=true&locale=en" alt="jalil-betroji" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalil-betroji&" alt="jalil-betroji" /></p>
+
+
+
+
+
+<div id="follow-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); z-index: 9999; text-align: center;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: white; padding: 20px; border-radius: 10px;">
+        <h2>Follow Me on GitHub!</h2>
+        <p>Stay updated with my latest projects and contributions.</p>
+        <button onclick="closeModal()">Close</button>
+    </div>
+</div>
+
+<script>
+    // Function to display the modal
+    function displayModal() {
+        var modal = document.getElementById('follow-modal');
+        modal.style.display = 'block';
+    }
+
+    // Function to close the modal
+    function closeModal() {
+        var modal = document.getElementById('follow-modal');
+        modal.style.display = 'none';
+    }
+
+    // Show the modal after a delay
+    setTimeout(displayModal, 5000); // Adjust the delay (in milliseconds) as needed
+</script>
