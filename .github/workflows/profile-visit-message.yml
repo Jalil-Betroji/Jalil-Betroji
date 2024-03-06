@@ -1,0 +1,18 @@
+name: Profile Visit Message
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+
+jobs:
+  post-message:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Issue
+        uses: peter-evans/create-issue-action@v3
+        with:
+          title: "👋 Welcome to My GitHub Profile!"
+          body: |
+            Hi there! Thanks for visiting my GitHub profile. 
+            If you like what you see, feel free to give me a follow. 😊
+          labels: "profile-visit"
