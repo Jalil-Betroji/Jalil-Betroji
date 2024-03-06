@@ -35,19 +35,3 @@
     </div>
 </div>
 
-<script>
-    // Function to display the modal
-    function displayModal() {
-        var modal = document.getElementById('follow-modal');
-        modal.style.display = 'block';
-    }
-
-    // Function to close the modal
-    function closeModal() {
-        var modal = document.getElementById('follow-modal');
-        modal.style.display = 'none';
-    }
-
-    // Show the modal after a delay
-    setTimeout(displayModal, 5000); // Adjust the delay (in milliseconds) as needed
-</script>
