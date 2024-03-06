@@ -2,7 +2,7 @@ name: Profile Visit Message
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '*/10 * * * *' # Runs every 10 minutes
 
 jobs:
   post-message:
