@@ -27,5 +27,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalil-betroji&" alt="jalil-betroji" /></p>
 
 ### Real projects
-[Villa le rocher](htttps://www.villalerocher.com)
-[cap alliance](https://www.capalliance.ma)
+- [Villa le rocher](htttps://www.villalerocher.com)
+
+- [cap alliance](https://www.capalliance.ma)
