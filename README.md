@@ -26,5 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalil-betroji&" alt="jalil-betroji" /></p>
 
-### CV
-![My cv](/images/My-resume-in-english.png).
