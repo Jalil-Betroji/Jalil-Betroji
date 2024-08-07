@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalil-betroji&label=Profile%20views&color=0e75b6&style=flat" alt="jalil-betroji" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalil-betroji" alt="jalil-betroji" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalil-betroji&count_private=true" alt="jalil-betroji" /></a> </p>
 
 - 🌱 Recently mastered: **Laravel Framework**
 - 📚 Currently expanding skills in: **Kotlin**
