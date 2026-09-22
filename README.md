@@ -160,25 +160,45 @@ Corporate digital platform developed for Cap Alliance.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jalil-Betroji&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jalil-Betroji&theme=github_dark" width="100%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalil-Betroji&layout=compact&hide_border=true" />
+<br/>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jalil-Betroji&theme=github_dark" height="180" />
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jalil-Betroji&theme=github_dark" height="180" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jalil-Betroji&hide_border=true" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jalil-Betroji&theme=github_dark" height="180" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jalil-Betroji&theme=github_dark&utcOffset=1" height="180" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Profile
+## 👀 Profile Visitors
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jalil-Betroji&column=7&margin-w=10&margin-h=10&no-frame=true" />
+### Thanks for stopping by!
+
+<img src="https://komarev.com/ghpvc/?username=Jalil-Betroji&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Jalil Betroji profile views" />
+
+<br/><br/>
+
+<img src="https://viewcounter.live/Jalil-Betroji?label=Visitors" alt="Jalil Betroji visitors" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building products. Solving problems. Shipping to production.
+
+**Laravel • Next.js • React • TypeScript • Go • SaaS • Automation**
 
 </div>
 
