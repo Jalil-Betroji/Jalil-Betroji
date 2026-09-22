@@ -182,13 +182,7 @@ Corporate digital platform developed for Cap Alliance.
 
 <div align="center">
 
-### Thanks for stopping by!
-
-<img src="https://komarev.com/ghpvc/?username=Jalil-Betroji&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Jalil Betroji profile views" />
-
-<br/><br/>
-
-<img src="https://viewcounter.live/Jalil-Betroji?label=Visitors" alt="Jalil Betroji visitors" />
+<img src="https://komarev.com/ghpvc/?username=Jalil-Betroji&label=PROFILE+VISITORS&color=0e75b6&style=for-the-badge" alt="Jalil Betroji Profile Visitors" />
 
 </div>
 
