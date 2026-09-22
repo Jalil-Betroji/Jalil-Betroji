@@ -12,7 +12,7 @@ from architecture and UI to APIs, databases, deployment and scaling.
 <img src="https://komarev.com/ghpvc/?username=Jalil-Betroji&label=Visitors&color=0e75b6&style=flat-square" alt="Profile Visitors" />
 &nbsp;
 <a href="https://github.com/Jalil-Betroji?tab=followers">
-<img src="https://img.shields.io/github/followers/Jalil-Betroji?label=Followers&style=flat-square&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/followers/Jalil-Betroji?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/jalil-betroji">
@@ -23,17 +23,35 @@ from architecture and UI to APIs, databases, deployment and scaling.
 
 ---
 
-## ⚡ About Me
+## 📊 GitHub Statistics
 
-```text id="1bd8ef"
-💻 Full-Stack Development     🚀 SaaS & Digital Products
-⚙️ Business Automation       🔌 APIs & Integrations
-☁️ DevOps & Infrastructure   🧠 System Architecture
-```
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jalil-Betroji&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Jalil Betroji GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalil-Betroji&layout=compact&hide_border=true&langs_count=8" alt="Jalil Betroji Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jalil-Betroji&hide_border=true" alt="Jalil Betroji GitHub Streak" />
+
+</div>
+
+---
+
+## ⚡ About Me
 
 I'm a **Full-Stack Developer and Founder & CEO of Quartinno**, building scalable web applications, SaaS platforms, APIs and automation systems for real-world businesses.
 
-My approach:
+```text id="lxh2g0"
+💻 Full-Stack Development    🚀 SaaS & Digital Products
+⚙️ Business Automation      🔌 APIs & Integrations
+☁️ DevOps & Infrastructure  🧠 System Architecture
+```
 
 **Idea → Architecture → Build → Deploy → Optimize → Scale 🚀**
 
@@ -43,17 +61,11 @@ My approach:
 
 <div align="center">
 
-### Core
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,ts,php,go,postgres,mysql,prisma" alt="Development Stack" />
 
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,ts,php,go" alt="Core Stack" />
+<br/><br/>
 
-### Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,linux,nginx,docker" alt="Data and Infrastructure" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github,vercel,postman,figma" alt="Development Tools" />
 
 </div>
 
@@ -63,6 +75,7 @@ My approach:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💳 Quartap
@@ -86,9 +99,11 @@ Campaign management, backend processing and email infrastructure.
 `Go` `Laravel` `React` `PostgreSQL`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🧼 Hyprocol
@@ -112,6 +127,7 @@ SEO-focused property website built for discovery and direct booking conversion.
 `Web` `SEO` `Performance` `UX`
 
 </td>
+
 </tr>
 </table>
 
@@ -129,6 +145,7 @@ SEO-focused property website built for discovery and direct booking conversion.
 
 <table>
 <tr>
+
 <td width="65%" valign="middle">
 
 I founded **Quartinno** to build technology that solves real business problems.
@@ -141,13 +158,18 @@ We create **web platforms, SaaS products, mobile applications, business automati
 
 <td width="35%" align="center">
 
-**BUILD**
+### BUILD
+
 ↓
-**AUTOMATE**
+
+### AUTOMATE
+
 ↓
-**SCALE** 🚀
+
+### SCALE 🚀
 
 </td>
+
 </tr>
 </table>
 
@@ -155,7 +177,11 @@ We create **web platforms, SaaS products, mobile applications, business automati
 
 ## 🔭 Currently Building
 
+<div align="center">
+
 `SaaS` · `Laravel` · `Next.js` · `Go` · `Automation` · `AI Integrations` · `APIs`
+
+</div>
 
 ---
 
@@ -177,6 +203,6 @@ We create **web platforms, SaaS products, mobile applications, business automati
 
 <br/><br/>
 
-**Building products. Solving problems. Shipping to production. 🚀**
+**Building products · Solving problems · Shipping to production 🚀**
 
 </div>
