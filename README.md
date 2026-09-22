@@ -1,222 +1,494 @@
-<div align="center">
+<div>
 
-# Hi, I'm Jalil Betroji 👋
+# 👨‍💻 Jalil Betroji
 
-### Full-Stack Developer · SaaS Builder · Founder
+### Full-Stack Developer · SaaS Builder · Founder & CEO of Quartinno
 
-I build **scalable web applications, SaaS platforms, APIs, automation tools, and digital products** from idea to production.
+I build **scalable web applications, SaaS platforms, APIs, automation systems, and digital products** that solve real business problems.
 
-Based in **Morocco 🇲🇦** and building products for businesses and startups.
+My work combines **software engineering, product development, and entrepreneurship** — from idea and architecture to deployment and production.
+
+📍 Morocco 🇲🇦
+
+<br/>
+
+<a href="https://github.com/Jalil-Betroji">
+  <img src="https://img.shields.io/github/followers/Jalil-Betroji?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Jalil-Betroji&label=PROFILE+VISITORS&color=0e75b6&style=for-the-badge" alt="Profile Visitors" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 📊 GitHub
 
-I'm a Full-Stack Developer focused on building real-world digital products rather than just writing code.
+<div align="center">
 
-My work covers the complete product lifecycle:
+### 👀 Profile Visitors
 
-**Idea → Architecture → UI/UX → Development → API → Database → Deployment → Optimization**
+<img src="https://komarev.com/ghpvc/?username=Jalil-Betroji&label=TOTAL+VISITORS&color=0e75b6&style=for-the-badge" alt="Jalil Betroji Profile Visitors" />
 
-* 🚀 Building SaaS platforms and business applications
-* 🧠 Interested in automation, scalable architecture and AI-powered products
-* 🏗️ Working primarily with **Laravel, Next.js, React and TypeScript**
-* ⚙️ Building REST APIs and backend systems
-* 🗄️ Working with **PostgreSQL, MySQL and Prisma**
-* ☁️ Deploying and managing applications on **Linux, VPS, Vercel, Apache and Nginx**
-* 📱 Exploring mobile development and cross-platform applications
-* 🔍 Focused on performance, SEO, security and maintainable architecture
-* 💼 Founder & CEO at **Quartinno**
+<br/><br/>
 
----
+<a href="https://github.com/Jalil-Betroji?tab=followers">
+  <img src="https://img.shields.io/github/followers/Jalil-Betroji?label=GitHub%20Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+</a>
 
-## 🛠️ Tech Stack
+<a href="https://github.com/Jalil-Betroji?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="GitHub Repositories" />
+</a>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,bootstrap,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,go" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
-</p>
-
-### DevOps & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,nginx,apache,docker,git,github,vercel" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm" />
-</p>
+</div>
 
 ---
 
-## 🚀 What I Build
+# 🚀 About Me
 
-```text
-SaaS Platforms       ████████████████████
-Web Applications     ████████████████████
-REST APIs            ███████████████████░
-Business Automation  ███████████████████░
-E-commerce           ██████████████████░░
-DevOps / Deployment  █████████████████░░░
-Mobile Apps          ████████████░░░░░░░░
+I'm a **Full-Stack Developer, SaaS Builder, and Founder & CEO of Quartinno** focused on transforming ideas and business challenges into production-ready digital products.
+
+I don't focus only on writing code. I enjoy working across the complete product lifecycle:
+
+```text id="63w4py"
+Idea
+  ↓
+Product Strategy
+  ↓
+System Architecture
+  ↓
+UI / UX
+  ↓
+Frontend Development
+  ↓
+Backend & APIs
+  ↓
+Database
+  ↓
+Deployment
+  ↓
+Performance & SEO
+  ↓
+Production 🚀
 ```
 
-I especially enjoy projects where software replaces repetitive business processes with **automation, dashboards, APIs and intelligent workflows**.
+As **Founder & CEO of Quartinno**, I combine technology, product development, and business strategy to create solutions for companies and startups.
+
+### 🔭 Currently focused on
+
+* 🚀 Building **SaaS platforms & business applications**
+* 🏗️ Developing with **Laravel & Next.js**
+* ⚛️ Building modern interfaces with **React & TypeScript**
+* 🔌 Designing scalable **REST APIs**
+* 🐹 Building backend services with **Go**
+* 🤖 Exploring **AI integrations & automation**
+* 🗄️ Working with **PostgreSQL & MySQL**
+* ☁️ Managing **Linux servers, VPS, Apache & Nginx**
+* 🔍 Improving **SEO, performance & application security**
+* 📱 Expanding into **mobile & cross-platform development**
+* 🧩 Building reusable development tools and architectures
 
 ---
 
-## 🧩 Selected Projects
+# 🛠️ Technology Stack
 
-### 🏢 Quartinno
+## 🎨 Frontend
 
-Digital technology company building websites, SaaS platforms, mobile applications, automation solutions and business software.
+<div align="center">
 
-**Role:** Founder & CEO / Full-Stack Developer
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,bootstrap,html,css" alt="Frontend Technologies" />
 
-`SaaS` `Web Development` `Automation` `Digital Transformation`
+<br/><br/>
 
----
+**Next.js · React · TypeScript · JavaScript · Tailwind CSS · Bootstrap · HTML · CSS**
 
-### 🧼 Hyprocol
-
-Professional hygiene and cleaning products platform.
-
-Worked on migration, e-commerce functionality, product management, SEO, responsive optimization and application performance.
-
-**Stack**
-
-`Laravel` `MySQL` `Blade` `Tailwind CSS` `JavaScript`
+</div>
 
 ---
 
-### 💳 Quartap
+## ⚙️ Backend
 
-NFC-powered platform for businesses to connect physical cards and devices with digital experiences.
+<div align="center">
 
-Features include:
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,go" alt="Backend Technologies" />
 
-* Business management
+<br/><br/>
+
+**Laravel · PHP · Node.js · Go · REST APIs**
+
+</div>
+
+---
+
+## 🗄️ Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" alt="Database Technologies" />
+
+<br/><br/>
+
+**PostgreSQL · MySQL · Prisma**
+
+</div>
+
+---
+
+## ☁️ DevOps & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,nginx,apache,docker,git,github,vercel" alt="DevOps Technologies" />
+
+<br/><br/>
+
+**Linux · Nginx · Apache · Docker · Git · GitHub · Vercel · VPS**
+
+</div>
+
+---
+
+## 🔧 Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm" alt="Development Tools" />
+
+<br/><br/>
+
+**VS Code · Figma · Postman · NPM**
+
+</div>
+
+---
+
+# 💡 What I Build
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 SaaS Platforms
+
+Scalable multi-user platforms with dashboards, authentication, permissions, APIs and complex business workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Web Applications
+
+Modern, responsive and production-ready web applications designed around real business requirements.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙️ Business Automation
+
+Software that replaces repetitive processes with automated workflows, integrations and intelligent systems.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔌 APIs & Integrations
+
+REST APIs connecting web applications, mobile applications and external services.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Business Systems
+
+Administration dashboards, CRM systems, ERP solutions, analytics and operational tools.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Infrastructure
+
+Application deployment, Linux server management, reverse proxies, SSL and production infrastructure.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+## 💳 Quartap
+
+### NFC-Powered Business Engagement Platform
+
+A platform connecting physical NFC devices with digital business experiences.
+
+### Key Features
+
 * NFC device management
-* Dynamic destinations
-* Digital profiles
+* Dynamic device destinations
+* Digital business profiles
 * Lead collection
 * Interaction tracking
-* Team & role management
+* Business management
+* Team management
+* Role & permission management
+* Administrative dashboard
 
-**Stack**
+### Tech Stack
 
-`Laravel` `MySQL` `REST API` `NFC`
+`Laravel` `MySQL` `REST API` `JavaScript` `NFC`
 
 ---
 
-### 📧 Quartlead
+## 📧 Quartlead
 
-Email infrastructure and campaign management platform with backend services designed for high-volume processing.
+### Email Infrastructure & Campaign Platform
 
-**Stack**
+A platform designed around email infrastructure, campaign management, backend processing and automation.
+
+### Architecture
+
+```text id="ykw8id"
+       Frontend
+          │
+    React / Laravel
+          │
+          ▼
+         API
+          │
+          ▼
+      Go Services
+          │
+          ▼
+      PostgreSQL
+          │
+          ▼
+    Nginx / Linux VPS
+```
+
+### Tech Stack
 
 `Go` `Laravel` `React` `PostgreSQL` `Nginx` `Linux`
 
 ---
 
-### 🏡 Villa Le Rocher
+## 🧼 Hyprocol
 
-Production website focused on property presentation, booking conversion, SEO and local discovery.
+### Professional Hygiene & Cleaning Products Platform
 
-🌐 **villalerocher.com**
+Production web and e-commerce platform developed for the professional hygiene industry.
 
-`Web Development` `SEO` `Responsive Design`
+### My Work
+
+* Laravel architecture
+* WordPress → Laravel migration
+* Product management
+* Product variations
+* Search functionality
+* SEO architecture
+* Canonical URL optimization
+* Structured URLs
+* Responsive optimization
+* Image optimization
+* Performance improvements
+* Analytics integration
+
+### Tech Stack
+
+`Laravel` `Blade` `MySQL` `Tailwind CSS` `JavaScript`
 
 ---
 
-### 🤝 Cap Alliance
+## 🏡 Villa Le Rocher
 
-Corporate digital platform developed for Cap Alliance.
+### Property Presentation & Booking Website
 
-🌐 **capalliance.ma**
+A production website focused on property presentation, direct booking conversion, SEO and local discovery.
 
-`Web Development` `Responsive Design` `Business Platform`
+🌐 **[www.villalerocher.com](http://www.villalerocher.com)**
+
+### Focus
+
+`SEO` `Responsive Design` `Performance` `Booking Conversion`
 
 ---
 
-## 📊 GitHub Analytics
+## 🤝 Cap Alliance
+
+### Corporate Digital Platform
+
+A corporate digital platform built for Cap Alliance.
+
+🌐 **[www.capalliance.ma](http://www.capalliance.ma)**
+
+### Focus
+
+`Web Development` `Business Platform` `Responsive Design`
+
+---
+
+# 🏢 Founder & CEO — Quartinno
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jalil-Betroji&theme=github_dark" width="100%" />
+## Quartinno
+
+### A Mission to Innovate, Quartinno Elevates.
+
+</div>
+
+I'm the **Founder & CEO of Quartinno**, a technology company focused on helping businesses transform ideas and operational challenges into digital solutions.
+
+Quartinno works across:
+
+<table>
+
+<tr>
+
+<td>🌐 Web Development</td>
+<td>🚀 SaaS Development</td>
+
+</tr>
+
+<tr>
+
+<td>📱 Mobile Applications</td>
+<td>⚙️ Business Automation</td>
+
+</tr>
+
+<tr>
+
+<td>📊 CRM / ERP</td>
+<td>🔌 API Development</td>
+
+</tr>
+
+<tr>
+
+<td>🎯 Digital Strategy</td>
+<td>🔍 SEO / SEA</td>
+
+</tr>
+
+<tr>
+
+<td>☁️ Hosting & Infrastructure</td>
+<td>🤖 AI & Automation</td>
+
+</tr>
+
+</table>
+
+Our objective is simple:
+
+> **Use technology to solve real business problems and create products that deliver measurable value.**
+
+---
+
+# 🧠 Engineering Interests
+
+I'm particularly interested in:
+
+```text id="owfr2d"
+SaaS Architecture
+System Design
+API Design
+Business Automation
+Developer Tools
+AI Integrations
+Email Infrastructure
+NFC Technology
+Performance Optimization
+SEO Engineering
+Server Infrastructure
+Digital Transformation
+```
+
+---
+
+# 🎯 Current Goals
+
+```text id="ed40w6"
+→ Build more open-source projects
+
+→ Create reusable Laravel packages
+
+→ Create reusable Next.js components
+
+→ Build scalable SaaS architectures
+
+→ Expand Go backend development
+
+→ Build AI-powered business tools
+
+→ Contribute to developer tools
+
+→ Share engineering knowledge
+
+→ Build products used by real businesses
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### I'm always interested in technology, SaaS, startups and ambitious digital products.
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jalil-Betroji&theme=github_dark" height="180" />
+<a href="https://www.linkedin.com/in/jalil-betroji">
+  <img src="https://img.shields.io/badge/LinkedIn-Jalil%20Betroji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jalil-Betroji&theme=github_dark" height="180" />
+<a href="mailto:jalil.betroji@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jalil.betroji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/Jalil-Betroji">
+  <img src="https://img.shields.io/badge/GitHub-Jalil--Betroji-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+📍 **Morocco 🇲🇦**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Building Products · Solving Problems · Shipping to Production
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jalil-Betroji&theme=github_dark" height="180" />
+<img src="https://komarev.com/ghpvc/?username=Jalil-Betroji&label=Thanks+for+visiting&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jalil-Betroji&theme=github_dark&utcOffset=1" height="180" />
+<br/><br/>
 
-</div>
+**Laravel · Next.js · React · TypeScript · Go · SaaS · Automation**
 
----
+<br/><br/>
 
-## 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jalil-Betroji&label=PROFILE+VISITORS&color=0e75b6&style=for-the-badge" alt="Jalil Betroji Profile Visitors" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building products. Solving problems. Shipping to production.
-
-**Laravel • Next.js • React • TypeScript • Go • SaaS • Automation**
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in:
-
-**SaaS · Web Development · Automation · APIs · Startups · Digital Products**
-
-📧 **[jalil.betroji@gmail.com](mailto:jalil.betroji@gmail.com)**
-
-💼 **LinkedIn:**
-[www.linkedin.com/in/jalil-betroji](http://www.linkedin.com/in/jalil-betroji)
-
-🌍 **Morocco**
-
----
-
-<div align="center">
-
-### Building products. Solving problems. Shipping to production. 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=jalil-betroji\&label=Profile%20Views\&style=flat)
+⭐ **If you find one of my projects useful, consider giving it a star.**
 
 </div>
